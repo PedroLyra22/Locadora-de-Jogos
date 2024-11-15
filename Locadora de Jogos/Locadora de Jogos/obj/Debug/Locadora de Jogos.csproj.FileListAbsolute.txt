@@ -1,0 +1,20 @@
+C:\Users\Pedro\source\repos\Locadora de Jogos\Locadora de Jogos\obj\Debug\Locadora de Jogos.csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\Locadora de Jogos\Locadora de Jogos\obj\Debug\Locadora_de_Jogos.Properties.Resources.resources
+C:\Users\Pedro\source\repos\Locadora de Jogos\Locadora de Jogos\obj\Debug\Locadora de Jogos.csproj.GenerateResource.cache
+C:\Users\Pedro\source\repos\Locadora de Jogos\Locadora de Jogos\obj\Debug\Locadora de Jogos.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\Locadora de Jogos\Locadora de Jogos\bin\Debug\Locadora de Jogos.exe.config
+C:\Users\Pedro\source\repos\Locadora de Jogos\Locadora de Jogos\bin\Debug\Locadora de Jogos.exe
+C:\Users\Pedro\source\repos\Locadora de Jogos\Locadora de Jogos\bin\Debug\Locadora de Jogos.pdb
+C:\Users\Pedro\source\repos\Locadora de Jogos\Locadora de Jogos\bin\Debug\MySql.Data.dll
+C:\Users\Pedro\source\repos\Locadora de Jogos\Locadora de Jogos\bin\Debug\System.Memory.dll
+C:\Users\Pedro\source\repos\Locadora de Jogos\Locadora de Jogos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Pedro\source\repos\Locadora de Jogos\Locadora de Jogos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Pedro\source\repos\Locadora de Jogos\Locadora de Jogos\bin\Debug\System.Buffers.dll
+C:\Users\Pedro\source\repos\Locadora de Jogos\Locadora de Jogos\bin\Debug\MySql.Data.xml
+C:\Users\Pedro\source\repos\Locadora de Jogos\Locadora de Jogos\obj\Debug\Locadora.E3C1E838.Up2Date
+C:\Users\Pedro\source\repos\Locadora de Jogos\Locadora de Jogos\obj\Debug\Locadora de Jogos.exe
+C:\Users\Pedro\source\repos\Locadora de Jogos\Locadora de Jogos\obj\Debug\Locadora de Jogos.pdb
+C:\Users\Pedro\source\repos\Locadora de Jogos\Locadora de Jogos\obj\Debug\Locadora_de_Jogos.JogoForm.resources
+C:\Users\Pedro\source\repos\Locadora de Jogos\Locadora de Jogos\obj\Debug\Locadora_de_Jogos.LocacaoForm.resources
+C:\Users\Pedro\source\repos\Locadora de Jogos\Locadora de Jogos\obj\Debug\Locadora_de_Jogos.Menu.resources
+C:\Users\Pedro\source\repos\Locadora de Jogos\Locadora de Jogos\obj\Debug\Locadora_de_Jogos.ClienteForm.resources
